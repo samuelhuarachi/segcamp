@@ -1,7 +1,4 @@
 module.exports = function(grunt) {
-
-
-
 	// Project configuration.
 	grunt.initConfig({
 	  concat: {
@@ -9,9 +6,18 @@ module.exports = function(grunt) {
 	      separator: ';',
 	    },
 	    dist: {
-	      src: ['src/intro.js', 'src/project.js', 'src/outro.js'],
+	      src: ['src/jquery.cycle.all.js'],
 	      dest: 'dist/built.js',
 	    },
+	  },
+
+	  // Project configuration.
+	  uglify: {
+	    my_target: {
+	      files: {
+	        'dest/cycle.min.js': ['src/jquery.cycle.all.js']
+	      }
+	    }
 	  },
 
 	  cssmin: {
@@ -28,10 +34,7 @@ module.exports = function(grunt) {
 
 	});
 
-
-
 	grunt.loadNpmTasks('grunt-contrib-concat');
 	grunt.loadNpmTasks('grunt-contrib-cssmin');
-
-
+	grunt.loadNpmTasks('grunt-contrib-uglify');
 };
