@@ -33,7 +33,6 @@
 				</div>
 				<div class="usainfo1">
 					
-
 					<div class="usatelandlogo">
 						
 						<div class="usalogo">
@@ -99,11 +98,91 @@
 					</div>
 				</div>
 				<div class="usa-servicos">
-					sdfdas
+					<div class="usa-servicos-part1">
+						<img src="images/homem1.jpg" alt="">
+						<h3>Serviços Terceirizados</h3>
+						<h4>Segurança e controle de acesso</h4>
+						<p>- Controle de entrada e saída de visitantes, bem como recepção 
+						de visitantes de forma atenciosa;</p>
+						<p>- Controle de entrada e saída de moradores;</p>
+						<p>- Recebimento e controle de correspondência;</p>
+						<p>- Controle de carga e descarga.</p>
+					</div>
+					<div class="usa-servicos-part2">
+						<img src="images/mulher2.jpg" alt="">
+						<h3>Serviços Terceirizados</h3>
+						<h4>Portaria e Recepçao</h4>
+						<p>- Supervisão contínua , realizada com regularidade aos postos de 
+						serviço.</p>
+						<p>- Equipes bem-treinadas, uniformizadas e que seguem rigoroso código 
+						de condunta.</p>
+						<p>- Colaboradores preparados para atender as necessidades de cada 
+						tipo de ambiente, como fábricas, estabelecimentos comerciais e 
+						condomínios.</p>
+						<p>- Atuação dentro de todas as normas e exigências legais.</p>
+					</div>
+					
 				</div>
+
+				<div class="usa-rodape">
+					<div class="usa-rodape1">
+						<div class="logo-black">
+							<img src="images/logoBlack.jpg" alt="">
+						</div>
+						<div class="usa-espaco">.</div>
+						<div class="usa-roda-info">
+							<div class="usa-info1">
+								<p>- <a href="#">Portaria</a></p>
+								<p>- <a href="#">Limpeza</a></p>
+								<p>- <a href="#">Serviços Gerais</a></p>
+								<p>- <a href="#">Contato</a></p>
+							</div>
+							<div class="usa-info1">
+								<p>- <a href="#">Quem Somos</a></p>
+								<p>- <a href="#">Serviços Especiais</a></p>
+								<p>- <a href="#">Diferenciais</a></p>
+							</div>
+							<div class="usa-info1">
+								<p>Rua Nonononono Oiooiooioioi, 000</p>
+								<p>Jd. Nonononono / Campinas - SP</p>
+								<p>Cep: 13000-000</p>
+							</div>
+
+							<div class="usa-info1">
+								<div class="rede-social-img">
+									<div class="img-rede">
+										<img src="images/ico_face.jpg" alt="">
+									</div>
+									<div class="comentario-social">
+										<p>facebook.com/segcampportaria</p>
+									</div>
+								</div>
+								<div class="rede-social-img">
+									<div class="img-rede">
+										<img src="images/ico_twitter.jpg" alt="">
+									</div>
+									<div class="comentario-social">
+										<p>Twitter</p>
+									</div>
+								</div>
+								<div class="rede-social-img">
+									<div class="img-rede">
+										<img src="images/ico_tel2.jpg" alt="">
+									</div>
+									<div class="comentario-social">
+										<p>atendimento@segcampportaria.com.br</p>
+									</div>
+								</div>
+								
+							</div>
+
+
+						</div>
+					</div>
+				</div>
+
 			</div>
-
-
+			
 		</div>
 
 	</div>
