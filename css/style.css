@@ -207,7 +207,7 @@ li a:hover{
 .cycle-pager {
     z-index: 500; 
     position: absolute; 
-    top: 322px; 
+    top: 311px; 
     overflow: hidden;
     padding-left: 1000px;
 }

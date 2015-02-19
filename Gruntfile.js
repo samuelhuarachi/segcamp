@@ -14,6 +14,7 @@ module.exports = function(grunt) {
 	  // Project configuration.
 	  uglify: {
 	    my_target: {
+	    	
 	      files: {
 	        'dest/cycle.min.js': ['src/jquery.cycle.all.js']
 	      }
@@ -30,11 +31,20 @@ module.exports = function(grunt) {
 		      'css/main.min.css': ['css/reset.css', 'css/style.css']
 		    }
 		  }
-		}
+		},
+		smushit: {
+		    mygroup: {
+		      src: ['images/**/*.png','images/**/*.jpg'],
+		      dest: 'images/min'
+		    }
+		  }
 
 	});
 
 	grunt.loadNpmTasks('grunt-contrib-concat');
 	grunt.loadNpmTasks('grunt-contrib-cssmin');
 	grunt.loadNpmTasks('grunt-contrib-uglify');
+	grunt.loadNpmTasks('grunt-smushit');
+
+
 };

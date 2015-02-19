@@ -15,18 +15,18 @@
 
 </head>
 <body>
-
+	
 	<div class="topo">
 		<div class="estrutura">
-
+			
 			<div class="cabecalho">
 				<div class="usamenu">
 					<div class="usamenu-part1">
 						<ul>
-							<li class="usaliactive"><a href="/">PORTARIA</a></li>
+							<li ><a href="/">PORTARIA</a></li>
 							<li ><a href="#">LIMPEZA</a></li>
 							<li ><a href="#">SERVIÇOS GERAIS</a></li>
-							<li ><a href="contato.php">CONTATO</a></li>
+							<li class="usaliactive"><a href="contato.php">CONTATO</a></li>
 						</ul>
 					</div>
 					<div class="usamenu-part2">
@@ -36,9 +36,9 @@
 					</div>
 				</div>
 				<div class="usainfo1">
-
+					
 					<div class="usatelandlogo">
-
+						
 						<div class="usalogo">
 							<a href=""><img src="images/logo.jpg" alt=""></a>
 						</div>
@@ -48,14 +48,14 @@
 								(19) 3229-9050 / 99219-6148
 							</div>
 						</div>
-
+						
 						<div class="usasec-menu">
-							<a href="#">Quem somos</a> | <a href="#">Serviços especiais</a> |
+							<a href="#">Quem somos</a> | <a href="#">Serviços especiais</a> | 
 							<a href="#">Deferenciais</a>
 						</div>
 
 						<div class="usaservicos">
-
+							
 							<div class="usa-img-desc">
 								<img src="images/luz1.jpg" alt="">
 								Serviços especializados adequando às  necessidades  específicas
@@ -77,15 +77,15 @@
 						</div>
 						<!-- <div class="usa-banners">
 							<div class="usa-estilo1">
-
+								
 							</div>
 							<div class="usa-estilo2">
-
+								
 							</div>
-
+						
 						</div> -->
 						<div class="usa-bannerscli">
-							<div class="cycle-slideshow"
+							<div class="cycle-slideshow" 
 							    data-cycle-fx=scrollHorz
 							    data-cycle-timeout=5000
 							    data-cycle-pause-on-hover="true"
@@ -104,7 +104,7 @@
 						<img src="images/homem1.jpg" alt="">
 						<h3>Serviços Terceirizados</h3>
 						<h4>Segurança e controle de acesso</h4>
-						<p>- Controle de entrada e saída de visitantes, bem como recepção
+						<p>- Controle de entrada e saída de visitantes, bem como recepção 
 						de visitantes de forma atenciosa;</p>
 						<p>- Controle de entrada e saída de moradores;</p>
 						<p>- Recebimento e controle de correspondência;</p>
@@ -114,16 +114,16 @@
 						<img src="images/mulher2.jpg" alt="">
 						<h3>Serviços Terceirizados</h3>
 						<h4>Portaria e Recepçao</h4>
-						<p>- Supervisão contínua , realizada com regularidade aos postos de
+						<p>- Supervisão contínua , realizada com regularidade aos postos de 
 						serviço.</p>
-						<p>- Equipes bem-treinadas, uniformizadas e que seguem rigoroso código
+						<p>- Equipes bem-treinadas, uniformizadas e que seguem rigoroso código 
 						de condunta.</p>
-						<p>- Colaboradores preparados para atender as necessidades de cada
-						tipo de ambiente, como fábricas, estabelecimentos comerciais e
+						<p>- Colaboradores preparados para atender as necessidades de cada 
+						tipo de ambiente, como fábricas, estabelecimentos comerciais e 
 						condomínios.</p>
 						<p>- Atuação dentro de todas as normas e exigências legais.</p>
 					</div>
-
+					
 				</div>
 
 				<div class="usa-rodape">
@@ -175,7 +175,7 @@
 										<p>atendimento@segcampportaria.com.br</p>
 									</div>
 								</div>
-
+								
 							</div>
 
 
@@ -184,7 +184,7 @@
 				</div>
 
 			</div>
-
+			
 		</div>
 
 	</div>
