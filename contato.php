@@ -134,7 +134,7 @@
 						<div class="usa-espaco">.</div>
 						<div class="usa-roda-info">
 							<div class="usa-info1">
-								<p>- <a href="#">Portaria</a></p>
+								<p>- <a href="#">Portalria</a></p>
 								<p>- <a href="#">Limpeza</a></p>
 								<p>- <a href="#">Serviços Gerais</a></p>
 								<p>- <a href="#">Contato</a></p>

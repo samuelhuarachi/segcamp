@@ -351,3 +351,47 @@ li a:hover{
 .usa-info1 a:hover {
 	opacity: 0.5;
 }
+
+.usalimpeza {
+	position: relative;
+	padding: 20px;
+	height: 500px;
+}
+
+.usasecondmenu {
+	width: 100%;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+
+#circle {
+    background: #333;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.limpezadesc {
+	width: 621px;
+	padding-top: 20px;
+	padding-left: 20px;
+	float: left;
+}
+
+.limpezadesc p {
+	font-size: 14px;
+	margin-bottom: 5px;
+
+}
+
+.usalimpezaimg {
+	float: left;
+}
+
+.usalimpezaimg img {
+	margin-top: 155px;
+}
+
+//list-style: disc;
+
